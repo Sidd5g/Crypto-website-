@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CoinSight AI",
+  "description": "Real-time cryptocurrency dashboard powered by Gemini AI. Features live market data, interactive charts, and AI-driven market sentiment analysis using Google Search Grounding.",
+  "requestFramePermissions": []
+}
